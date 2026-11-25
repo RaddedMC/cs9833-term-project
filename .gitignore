@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DO NOT UPLOAD DATASETS TO GITHUB
+data/
+*.sqlite3

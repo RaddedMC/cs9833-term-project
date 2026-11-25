@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+# TODO: We probably don't need these, especially torchvision, but maybe it will help?
+torch
+torchvision
+tqdm
+ipykernel
